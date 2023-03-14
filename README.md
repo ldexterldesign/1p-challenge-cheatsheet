@@ -1,6 +1,6 @@
-[1p challenge] running total cheatsheet
+[1p (saving) challenge] running total cheatsheet
 
-[1p challenge]: http://moneysavingexpert.com/team-blog/2019/12/the-1p-365-day-savings-challenge
+[1p (saving) challenge]: http://moneysavingexpert.com/team-blog/2019/12/the-1p-365-day-savings-challenge
 
 ```cli
 deno run /Users/ldexterldesign/Desktop/1p-challenge-cheatsheet/script.deno --allow-all

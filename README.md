@@ -3,7 +3,7 @@
 [1p challenge]: http://moneysavingexpert.com/team-blog/2019/12/the-1p-365-day-savings-challenge
 
 ```cli
-deno run /Users/ldexterldesign/Desktop/1p-challenge-cheatsheet/script.deno --allow-all``
+deno run /Users/ldexterldesign/Desktop/1p-challenge-cheatsheet/script.deno --allow-all
 ```
 
 ```csv

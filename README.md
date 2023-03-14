@@ -7,6 +7,7 @@ deno run --allow-all /Users/ldexterldesign/Desktop/1p-challenge-cheatsheet/scrip
 ```
 
 ```csv
+day, total saved
 1, £0.01
 2, £0.03
 3, £0.06
